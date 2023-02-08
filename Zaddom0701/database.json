@@ -1,0 +1,140 @@
+[
+  {
+    "id": 0,
+    "firstname": "Paulina",
+    "lastname": "Sobczak",
+    "is_admin": false
+  },
+  {
+    "id": 1,
+    "firstname": "Henryk",
+    "lastname": "B\u0105k",
+    "is_admin": false
+  },
+  {
+    "id": 2,
+    "firstname": "Kazimierz",
+    "lastname": "G\u00f3rski",
+    "is_admin": false
+  },
+  {
+    "id": 3,
+    "firstname": "Irena",
+    "lastname": "W\u00f3jcik",
+    "is_admin": false
+  },
+  {
+    "id": 6,
+    "firstname": "Ewa",
+    "lastname": "Duda",
+    "is_admin": false
+  },
+  {
+    "id": 7,
+    "firstname": "Jakub",
+    "lastname": "Malinowski",
+    "is_admin": false
+  },
+  {
+    "id": 8,
+    "firstname": "Jadwiga",
+    "lastname": "Brzezi\u0144ska",
+    "is_admin": false
+  },
+  {
+    "id": 9,
+    "firstname": "Roman",
+    "lastname": "Sawicki",
+    "is_admin": false
+  },
+  {
+    "id": 10,
+    "firstname": "Marcin",
+    "lastname": "Szymczak",
+    "is_admin": true
+  },
+  {
+    "id": 12,
+    "firstname": "Maciej",
+    "lastname": "Szczepa\u0144ski",
+    "is_admin": false
+  },
+  {
+    "id": 13,
+    "firstname": "Czes\u0142aw",
+    "lastname": "Wr\u00f3bel",
+    "is_admin": false
+  },
+  {
+    "id": 14,
+    "firstname": "Gra\u017cyna",
+    "lastname": "G\u00f3rska",
+    "is_admin": false
+  },
+  {
+    "id": 15,
+    "firstname": "Wanda",
+    "lastname": "Krawczyk",
+    "is_admin": true
+  },
+  {
+    "id": 16,
+    "firstname": "Renata",
+    "lastname": "Urba\u0144ska",
+    "is_admin": true
+  },
+  {
+    "id": 17,
+    "firstname": "Wies\u0142awa",
+    "lastname": "Tomaszewska",
+    "is_admin": false
+  },
+  {
+    "id": 18,
+    "firstname": "Bo\u017cena",
+    "lastname": "Baranowska",
+    "is_admin": false
+  },
+  {
+    "id": 19,
+    "firstname": "Ewelina",
+    "lastname": "Malinowska",
+    "is_admin": true
+  },
+  {
+    "id": 20,
+    "firstname": "Anna",
+    "lastname": "Krajewska",
+    "is_admin": false
+  },
+  {
+    "id": 21,
+    "firstname": "Mieczys\u0142aw",
+    "lastname": "Zaj\u0105c",
+    "is_admin": false
+  },
+  {
+    "id": 22,
+    "firstname": "Wies\u0142aw",
+    "lastname": "Przybylski",
+    "is_admin": true
+  },
+  {
+    "id": 23,
+    "firstname": "Dorota",
+    "lastname": "Tomaszewska",
+    "is_admin": true
+  },
+  {
+    "id": 25,
+    "firstname": "Magdalena",
+    "lastname": "Adamczyk",
+    "is_admin": false
+  },
+  {
+    "id": 30,
+    "firstname": "W\u0142adys\u0142aw",
+    "lastname": "Piotrowski",
+    "is_admin": false
+  }
+]
